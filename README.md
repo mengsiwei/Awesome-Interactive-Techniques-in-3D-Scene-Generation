@@ -1,6 +1,5 @@
 # Awesome Interactive Techniques in 3D Scene Generation ![Awesome](https://awesome.re/badge.svg)
 
-# Awesome Interactive Techniques in 3D Scene Generation
 
 [![Paper](https://img.shields.io/badge/Paper-Authorea-b31b1b.svg)](https://doi.org/10.22541/au.177083718.88659470/v1)
 [![DOI](https://img.shields.io/badge/DOI-10.22541%2Fau.177083718.88659470%2Fv1-blue)](https://doi.org/10.22541/au.177083718.88659470/v1)
