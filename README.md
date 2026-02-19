@@ -1,5 +1,17 @@
 # Awesome Interactive Techniques in 3D Scene Generation ![Awesome](https://awesome.re/badge.svg)
 
+
+[![Paper](https://img.shields.io/badge/Paper-Authorea-b31b1b.svg)](https://doi.org/10.22541/au.177083718.88659470/v1)
+[![DOI](https://img.shields.io/badge/DOI-10.22541%2Fau.177083718.88659470%2Fv1-blue)](https://doi.org/10.22541/au.177083718.88659470/v1)
+
+</div>
+
+If you find our survey or this repository helpful, please cite:
+
+**A Comprehensive Survey of Interaction Techniques in 3D Scene Generation** *Yuqi Li, Siwei Meng, Chuanguang Yang, et al. (2026)* [[Read Paper]](https://doi.org/10.22541/au.177083718.88659470/v1)
+
+---
+
 A curated list of works on interactive techniques in 3D scene generation, including human-scene interaction, scene editing, layout-guided generation, and related datasets.
 
 If you find missing works or have suggestions, welcome to open an issue or contact the maintainers.
